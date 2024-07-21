@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="Lab001 and Lab002 added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/$Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_13072024/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_14072024/Lab033.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab007.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BabitaPatel-hub&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BabitaPatel-hub/LearningATB7xJavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;9edc1245-8673-43a0-8ac0-a633456b22a8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2j0wJpL8EsTJyJJ2KIRD6XnK969" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.$Lab010.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab012.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab015.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab019.executor": "Run",
+    "Application.Lab020.executor": "Run",
+    "Application.Lab021.executor": "Run",
+    "Application.Lab022.executor": "Run",
+    "Application.Lab023.executor": "Run",
+    "Application.Lab024.executor": "Run",
+    "Application.Lab025.executor": "Run",
+    "Application.Lab026.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab030.executor": "Run",
+    "Application.Lab031.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lan027.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Lab032">
+    <configuration name="Lab028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_13072024.Lab028" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_13072024.Lab029" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab030" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_13072024.Lab030" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_13072024.Lab031" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_13072024.Lab032" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab032" />
+        <item itemvalue="Application.Lab031" />
+        <item itemvalue="Application.Lab030" />
+        <item itemvalue="Application.Lab029" />
+        <item itemvalue="Application.Lab028" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="" />
+      <created>1720537234152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720537234152</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Lab001 and Lab002 added">
+      <option name="closed" value="true" />
+      <created>1720537714523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720537714523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab001 and Lab002 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab001 and Lab002 added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise_07072024/Lab005.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise_13072024/Lab021.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise_13072024/Lab024.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercise_07072024/Lab011.java</url>
+          <line>4</line>
+          <properties class="Exercise_07072024.Lab011" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
