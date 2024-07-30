@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="Done till 20/07/2024" />
+    <list default="true" id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="Done till 20/07/2024">
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab087.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab088.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab090.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab096.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAssignments/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_21072024/Lab083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab083.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,100 +62,115 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.$Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab019.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab020.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab021.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab022.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab023.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab024.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab025.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab026.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab028.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab029.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab030.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab031.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab032.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab033.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab034.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab035.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab036.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab038.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab039.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab040.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab041.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab042.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab043.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab044.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab046.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab050.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab051.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab052.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab053.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab054.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab055.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab056.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab057.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab058.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab059.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab060.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab061.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab062.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab063.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab064.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab065.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab066.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab067.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab068.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab069.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab070.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab071.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab072.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab073.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab074.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab075.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab076.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab077.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab078.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab079.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab080.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab081.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab082.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lan027.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lan045.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lb037.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleClassifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.abc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.qbc.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.$Lab010.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab012.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab015.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab019.executor": "Run",
+    "Application.Lab020.executor": "Run",
+    "Application.Lab021.executor": "Run",
+    "Application.Lab022.executor": "Run",
+    "Application.Lab023.executor": "Run",
+    "Application.Lab024.executor": "Run",
+    "Application.Lab025.executor": "Run",
+    "Application.Lab026.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab030.executor": "Run",
+    "Application.Lab031.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lab033.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab039.executor": "Run",
+    "Application.Lab04.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab056.executor": "Run",
+    "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab063.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Run",
+    "Application.Lab073.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab077.executor": "Run",
+    "Application.Lab078.executor": "Run",
+    "Application.Lab079.executor": "Run",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab081.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab087.executor": "Run",
+    "Application.Lab088.executor": "Run",
+    "Application.Lab089.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Run",
+    "Application.Lab095.executor": "Run",
+    "Application.Lab096.executor": "Run",
+    "Application.Lan027.executor": "Run",
+    "Application.Lan045.executor": "Run",
+    "Application.Lb037.executor": "Run",
+    "Application.TriangleClassifier.executor": "Run",
+    "Application.abc.executor": "Run",
+    "Application.qbc.executor": "Run",
+    "Application.re.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab082">
-    <configuration name="Lab078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20072024.Lab078" />
+}]]></component>
+  <component name="RunManager" selected="Application.Lab097">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAssignments.FizzBuzz" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -149,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20072024.Lab079" />
+    <configuration name="Lab095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_21072024.Lab095" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAssignments.*" />
+          <option name="PATTERN" value="Exercise_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab080" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20072024.Lab080" />
+    <configuration name="Lab096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_21072024.Lab096" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAssignments.*" />
+          <option name="PATTERN" value="Exercise_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20072024.Lab081" />
+    <configuration name="Lab097" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_21072024.Lab097" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAssignments.*" />
+          <option name="PATTERN" value="Exercise_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_20072024.Lab082" />
+    <configuration name="re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAssignments.re" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_20072024.*" />
+          <option name="PATTERN" value="JavaAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab082" />
-        <item itemvalue="Application.Lab081" />
-        <item itemvalue="Application.Lab080" />
-        <item itemvalue="Application.Lab079" />
-        <item itemvalue="Application.Lab078" />
+        <item itemvalue="Application.Lab097" />
+        <item itemvalue="Application.Lab096" />
+        <item itemvalue="Application.re" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Lab095" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722171109003</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Done till 20/07/2024">
+      <option name="closed" value="true" />
+      <created>1722188476412</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722188476412</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
