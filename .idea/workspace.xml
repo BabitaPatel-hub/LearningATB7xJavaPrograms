@@ -5,23 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="Done till 20/07/2024">
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab095.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab096.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAssignments/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab099.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_27072024/Lab116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAssignments/LeftTriangleStarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAssignments/RightTriangleStarPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise_21072024/Lab083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab083.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_21072024/Lab097.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_21072024/Lab097.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,9 +160,29 @@
     "Application.Lab094.executor": "Run",
     "Application.Lab095.executor": "Run",
     "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Run",
+    "Application.Lab099.executor": "Run",
+    "Application.Lab100.executor": "Run",
+    "Application.Lab101.executor": "Run",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103.executor": "Run",
+    "Application.Lab104.executor": "Run",
+    "Application.Lab105.executor": "Run",
+    "Application.Lab106.executor": "Run",
+    "Application.Lab107.executor": "Run",
+    "Application.Lab108.executor": "Run",
+    "Application.Lab109.executor": "Run",
+    "Application.Lab110.executor": "Run",
+    "Application.Lab111.executor": "Run",
+    "Application.Lab112.executor": "Debug",
+    "Application.Lab114.executor": "Run",
+    "Application.Lab115.executor": "Run",
     "Application.Lan027.executor": "Run",
     "Application.Lan045.executor": "Run",
     "Application.Lb037.executor": "Run",
+    "Application.LeftTriangleStarPattern.executor": "Run",
+    "Application.RightTriangleStarPattern.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "Application.abc.executor": "Run",
     "Application.qbc.executor": "Run",
@@ -165,16 +191,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab097">
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAssignments.FizzBuzz" />
+  <component name="RunManager" selected="Application.Lab116">
+    <configuration name="Lab111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_27072024.Lab111" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAssignments.*" />
+          <option name="PATTERN" value="Exercise_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_21072024.Lab095" />
+    <configuration name="Lab112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_27072024.Lab112" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_21072024.*" />
+          <option name="PATTERN" value="Exercise_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_21072024.Lab096" />
+    <configuration name="Lab114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_27072024.Lab114" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_21072024.*" />
+          <option name="PATTERN" value="Exercise_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab097" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_21072024.Lab097" />
+    <configuration name="Lab115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_27072024.Lab115" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_21072024.*" />
+          <option name="PATTERN" value="Exercise_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="re" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAssignments.re" />
+    <configuration name="Lab116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_27072024.Lab116" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAssignments.*" />
+          <option name="PATTERN" value="Exercise_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,13 +260,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab111" />
+      <item itemvalue="Application.Lab112" />
+      <item itemvalue="Application.Lab114" />
+      <item itemvalue="Application.Lab115" />
+      <item itemvalue="Application.Lab116" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab097" />
-        <item itemvalue="Application.Lab096" />
-        <item itemvalue="Application.re" />
-        <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.Lab095" />
+        <item itemvalue="Application.Lab116" />
+        <item itemvalue="Application.Lab115" />
+        <item itemvalue="Application.Lab114" />
+        <item itemvalue="Application.Lab112" />
+        <item itemvalue="Application.Lab111" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722188476412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done till 20/07/2024">
+      <option name="closed" value="true" />
+      <created>1722363994470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722363994470</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

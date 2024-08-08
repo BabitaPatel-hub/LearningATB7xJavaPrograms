@@ -1,8 +1,10 @@
 package Exercise_21072024;
 
-public class Lab097 {
-    public static void main(String[] args) {
-        //Functions : 2 imp componentes of function :
+public class Lab097
+{
+    public static void main(String[] args)
+    {
+        //Functions : 2 imp components of function :
         //define function
         //call function
 
@@ -25,7 +27,7 @@ public class Lab097 {
         function_type3("Fais");
         System.out.println("--------------------------");
 
-        int sum_result = function_type4(10,20);
+        int sum_result = function_type4(50,80);
         System.out.println(sum_result);
     }
 
@@ -35,18 +37,21 @@ public class Lab097 {
     {
         System.out.println("Without parameters and without return type");
     }
+
     //Without parameters and with return type
     static String function_type2()
     {
         System.out.println("Without parameters and with return type");
         return "Babita";
     }
+
     //With parameters and without return type
     static void function_type3(String name)
     {
         System.out.println("With parameters and without return type");
         System.out.println("You have shared " + name);
     }
+
     //With parameters and with return type
     static int function_type4(int a, int b)
     {
