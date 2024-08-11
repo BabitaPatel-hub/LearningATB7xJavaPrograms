@@ -4,16 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="Done till 27/07/2024">
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/BuildingBP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/Lab117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/Lab118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/Lab119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/Lab120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/Lab121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_28072024/Person.java" afterDir="false" />
+    <list default="true" id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="Done till 28/07/2024">
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/ATBPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/AccessModifiers/criminal/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/AccessModifiers/police/Cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/AccessModifiers/police/JrCop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/AccessModifiers/police/Lab132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HasARelationship/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HasARelationship/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HasARelationship/Lab131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HasARelationship/Tyres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HierarchicalInheritance/Daughter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HierarchicalInheritance/Daughter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HierarchicalInheritance/Daughter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HierarchicalInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/HierarchicalInheritance/Lab130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/Lab122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/Lab123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/Lab124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/Lab125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/Lab126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/Lab127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/MultilevelInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/MultilevelInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/MultilevelInheritance/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/MultilevelInheritance/GreatGrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/MultilevelInheritance/Lab129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/SingleInheritance/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/SingleInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/SingleInheritance/Lab128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/SingleInheritance/RealExample/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/SingleInheritance/RealExample/GrandBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/SingleInheritance/RealExample/Lab129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/SingleInheritance/RealExample/Testcase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_04082024/SingleInheritance/RealExample/Testcase2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +85,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.$Lab010.executor": "Run",
+    "Application.Daughter1.executor": "Run",
+    "Application.Exercise_04082024.MultilevelInheritance.Lab129.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
+    "Application.JrCop.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -168,11 +198,22 @@
     "Application.Lab116.executor": "Run",
     "Application.Lab120.executor": "Run",
     "Application.Lab121.executor": "Run",
+    "Application.Lab122.executor": "Run",
+    "Application.Lab123.executor": "Run",
+    "Application.Lab124.executor": "Run",
+    "Application.Lab125.executor": "Run",
+    "Application.Lab126.executor": "Run",
+    "Application.Lab127.executor": "Run",
+    "Application.Lab128.executor": "Run",
+    "Application.Lab129.executor": "Run",
+    "Application.Lab130.executor": "Run",
+    "Application.Lab131.executor": "Run",
     "Application.Lan027.executor": "Run",
     "Application.Lan045.executor": "Run",
     "Application.Lb037.executor": "Run",
     "Application.LeftTriangleStarPattern.executor": "Run",
     "Application.RightTriangleStarPattern.executor": "Run",
+    "Application.Thief.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "Application.abc.executor": "Run",
     "Application.qbc.executor": "Run",
@@ -184,13 +225,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab121">
-    <configuration name="Lab114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_27072024.Lab114" />
+  <component name="RunManager" selected="Application.JrCop">
+    <configuration name="Daughter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_04082024.HierarchicalInheritance.Daughter1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_27072024.*" />
+          <option name="PATTERN" value="Exercise_04082024.HierarchicalInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_27072024.Lab115" />
+    <configuration name="JrCop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_04082024.AccessModifiers.police.JrCop" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_27072024.*" />
+          <option name="PATTERN" value="Exercise_04082024.AccessModifiers.police.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_27072024.Lab116" />
+    <configuration name="Lab130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_04082024.HierarchicalInheritance.Lab130" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_27072024.*" />
+          <option name="PATTERN" value="Exercise_04082024.HierarchicalInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_28072024.Lab120" />
+    <configuration name="Lab131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_04082024.HasARelationship.Lab131" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_28072024.*" />
+          <option name="PATTERN" value="Exercise_04082024.HasARelationship.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_28072024.Lab121" />
+    <configuration name="Thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_04082024.AccessModifiers.criminal.Thief" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_28072024.*" />
+          <option name="PATTERN" value="Exercise_04082024.AccessModifiers.criminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,19 +292,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab121" />
-      <item itemvalue="Application.Lab120" />
-      <item itemvalue="Application.Lab114" />
-      <item itemvalue="Application.Lab115" />
-      <item itemvalue="Application.Lab116" />
+      <item itemvalue="Application.Daughter1" />
+      <item itemvalue="Application.JrCop" />
+      <item itemvalue="Application.Lab130" />
+      <item itemvalue="Application.Lab131" />
+      <item itemvalue="Application.Thief" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab121" />
-        <item itemvalue="Application.Lab120" />
-        <item itemvalue="Application.Lab116" />
-        <item itemvalue="Application.Lab115" />
-        <item itemvalue="Application.Lab114" />
+        <item itemvalue="Application.JrCop" />
+        <item itemvalue="Application.Thief" />
+        <item itemvalue="Application.Lab131" />
+        <item itemvalue="Application.Lab130" />
+        <item itemvalue="Application.Daughter1" />
       </list>
     </recent_temporary>
   </component>
@@ -316,14 +357,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723142033348</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Done till 28/07/2024">
+      <option name="closed" value="true" />
+      <created>1723288837038</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723288837038</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab001 and Lab002 added" />
     <MESSAGE value="Done till 20/07/2024" />
     <MESSAGE value="Done till 27/07/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done till 27/07/2024" />
+    <MESSAGE value="Done till 28/07/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done till 28/07/2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
