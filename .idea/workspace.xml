@@ -4,24 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="Done till 04/08/2024">
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/encapsulation/ICICIBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/encapsulation/Lab132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/encapsulation/Lab133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/encapsulation/VWOLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/methodOverloading/Lab134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/methodOverloading/MathOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/methodOverriding/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/methodOverriding/Hound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/methodOverriding/Lab135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/superthiskeyword/Lab136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/superthiskeyword/Lab137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/superthiskeyword/Lab138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_10082024/polymorphism/superthiskeyword/Lab139_SuperRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+    <list default="true" id="eb06a61f-9307-49ae-b9e4-df95352a8b2a" name="Changes" comment="Done till 10/08/2024">
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExCar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExCar/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExCar/GearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExCar/Keys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExCar/Lab140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExCar/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExCar/WagonR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExInterface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExInterface/Lab143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExInterface/WagonR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExLoan/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExLoan/Lab141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExLoan/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExReal/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExReal/Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExReal/Firefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExReal/GrandBaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/ExReal/Lab142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/Example2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/Example2/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/Example2/Lab145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/MultipleInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/MultipleInheritance/Lab144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/MultipleInheritance/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/MultipleInheritance/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_11082024/StaticKeyword/Lab146.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise_04082024/HasARelationship/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_04082024/HasARelationship/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise_07072024/$Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_07072024/Lab010.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -197,6 +208,13 @@
     "Application.Lab137.executor": "Run",
     "Application.Lab138.executor": "Run",
     "Application.Lab139_SuperRepeat.executor": "Run",
+    "Application.Lab140.executor": "Run",
+    "Application.Lab141.executor": "Run",
+    "Application.Lab142.executor": "Run",
+    "Application.Lab143.executor": "Run",
+    "Application.Lab144.executor": "Run",
+    "Application.Lab145.executor": "Run",
+    "Application.Lab146.executor": "Run",
     "Application.Lan027.executor": "Run",
     "Application.Lan045.executor": "Run",
     "Application.Lb037.executor": "Run",
@@ -214,13 +232,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab139_SuperRepeat">
-    <configuration name="Lab135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_10082024.polymorphism.methodOverriding.Lab135" />
+  <component name="RunManager" selected="Application.Lab146">
+    <configuration name="Lab142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_11082024.ExReal.Lab142" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_10082024.polymorphism.methodOverriding.*" />
+          <option name="PATTERN" value="Exercise_11082024.ExReal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_10082024.polymorphism.superthiskeyword.Lab136" />
+    <configuration name="Lab143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_11082024.ExInterface.Lab143" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_10082024.polymorphism.superthiskeyword.*" />
+          <option name="PATTERN" value="Exercise_11082024.ExInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab137" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_10082024.polymorphism.superthiskeyword.Lab137" />
+    <configuration name="Lab144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_11082024.MultipleInheritance.Lab144" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_10082024.polymorphism.superthiskeyword.*" />
+          <option name="PATTERN" value="Exercise_11082024.MultipleInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_10082024.polymorphism.superthiskeyword.Lab138" />
+    <configuration name="Lab145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_11082024.Example2.Lab145" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_10082024.polymorphism.superthiskeyword.*" />
+          <option name="PATTERN" value="Exercise_11082024.Example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab139_SuperRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_10082024.polymorphism.superthiskeyword.Lab139_SuperRepeat" />
+    <configuration name="Lab146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_11082024.StaticKeyword.Lab146" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_10082024.polymorphism.superthiskeyword.*" />
+          <option name="PATTERN" value="Exercise_11082024.StaticKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +299,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab136" />
-      <item itemvalue="Application.Lab137" />
-      <item itemvalue="Application.Lab138" />
-      <item itemvalue="Application.Lab139_SuperRepeat" />
-      <item itemvalue="Application.Lab135" />
+      <item itemvalue="Application.Lab144" />
+      <item itemvalue="Application.Lab145" />
+      <item itemvalue="Application.Lab146" />
+      <item itemvalue="Application.Lab142" />
+      <item itemvalue="Application.Lab143" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab139_SuperRepeat" />
-        <item itemvalue="Application.Lab138" />
-        <item itemvalue="Application.Lab137" />
-        <item itemvalue="Application.Lab136" />
-        <item itemvalue="Application.Lab135" />
+        <item itemvalue="Application.Lab146" />
+        <item itemvalue="Application.Lab145" />
+        <item itemvalue="Application.Lab144" />
+        <item itemvalue="Application.Lab143" />
+        <item itemvalue="Application.Lab142" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723403321467</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Done till 10/08/2024">
+      <option name="closed" value="true" />
+      <created>1740919725874</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740919725874</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -371,7 +397,8 @@
     <MESSAGE value="Done till 27/07/2024" />
     <MESSAGE value="Done till 28/07/2024" />
     <MESSAGE value="Done till 04/08/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done till 04/08/2024" />
+    <MESSAGE value="Done till 10/08/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done till 10/08/2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
